@@ -1,0 +1,31 @@
+			<md-content class="md-padding">
+
+			<div>
+				<div class="container-fluid">
+					<div class="row" style="margin-bottom: 2px">
+						<div class="col-md-12">
+							<md-nav-bar md-selected-nav-item="currentNavItem"
+								nav-bar-aria-label="navigation links"> <a href="#"><img
+								src="../images/AbrenLogo1.png" width=""></a>
+								 
+								<md-nav-item md-nav-click="goto('Industries')" name="Industries"><span class="header-text">Industries</span> </md-nav-item>
+								<md-nav-item md-nav-click="goto('Technologies')" name="Technologies"><span class="header-text">Technologies</span> </md-nav-item>
+
+							
+							 <md-nav-item md-nav-click="goto('Software')" name="Software"><span class="header-text">Development</span> </md-nav-item>
+							 <md-nav-item md-nav-click="goto('Network')"name="Network"> <span class="header-text">Network</span> </md-nav-item>
+							 <md-nav-item md-nav-click="goto('Security')" name="Security"> <span class="header-text">Security</span>  </md-nav-item> <span class="flex"></span>
+							 <md-nav-item md-nav-click="goto('SelectAProject')" name="Start a project">
+							<span class="btn"
+								style="padding: 3px 15px">Start a project</span> </md-nav-item> 
+								 								<md-nav-item md-nav-click="goto('contactus')" name="search"> <span
+								class="glyphicon glyphicon-search"
+								style="font-size: 13px; color: black;"></span> </md-nav-item>
+
+								</md-nav-bar>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			</md-content>

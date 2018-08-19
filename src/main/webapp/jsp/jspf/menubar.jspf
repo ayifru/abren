@@ -1,0 +1,8 @@
+<div class="row carouselMargin">
+    <div>
+        <a href="/entry/main.html"><img src="../../images/AboutUs_carousel_main.png" alt="About Us"></a>
+        <a href="/entry/consulting.html"><img src="../../images/Consulting_carousel_main.png" alt="Consulting"></a>
+        <a href="/entry/industries.html"><img src="../../images/Industries_carousel_main.png" alt="Industries"></a>
+        <a href="/entry/networkAndSecurity.html"><img src="../../images/NetworkAndSecurity_main.png" alt="Network and Security"></a>
+    </div>
+</div>

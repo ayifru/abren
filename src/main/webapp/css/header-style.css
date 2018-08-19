@@ -1,0 +1,12 @@
+.header-text {
+   font-size:12px;
+
+}
+.serch-bar{
+    position: fixed;
+
+}
+md-content {
+    color: rgba(0,0,0,0.87);
+    background-color: rgb(255,255,255);
+}

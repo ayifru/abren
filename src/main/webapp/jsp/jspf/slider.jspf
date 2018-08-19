@@ -1,0 +1,16 @@
+<div class="carouselMargin">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="20000">
+        <div class="carousel-inner">
+            <div class="item">
+                <a href="/entry/industries.html"><img src="../../images/Industries_carousel.png" alt="Industries"></a>
+            </div>
+            <div class="item">
+                <a href="/entry/consulting.html"><img src="../../images/Consulting_carousel.png" alt="Consulting"></a>
+            </div>
+            <div class="item">
+                <a href="/entry/networkAndSecurity.html"><img src="../../images/NetworkAndSecurity_carousel2.png" alt="Network and Security"></a>
+            </div>
+
+        </div>
+    </div>
+</div>
